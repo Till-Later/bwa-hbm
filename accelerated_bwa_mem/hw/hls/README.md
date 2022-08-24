@@ -1,0 +1,5 @@
+- The top level components of the project are implemented in HDL (VHDL/Verilog).
+- However these can instantiate HLS components.
+- Each instantiated HLS components has to be the top level components of its own HLS project.
+    - Define the top level function as WRAPPER in the Makefile
+    - add all required sources to the Makefile

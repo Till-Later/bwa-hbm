@@ -1,0 +1,3 @@
+[submodule "hardware/oc-bip"]
+	path = hardware/oc-bip
+	url = git@gitlab.hpi.de:till.lehmann/OpenCAPI3.0_Client_RefDesign.git

@@ -1,0 +1,422 @@
+[
+    {
+        "global_run_id": 0,
+        "hostname": "nvram-02",
+        "duration": 495.1785910129547,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1
+            },
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 0,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 1,
+        "hostname": "nvram-02",
+        "duration": 166.79442071914673,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1
+            },
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 1,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 2,
+        "hostname": "nvram-02",
+        "duration": 221.40911149978638,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 2,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 3,
+        "hostname": "nvram-02",
+        "duration": 478.2800467014313,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1
+            },
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 3,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 4,
+        "hostname": "nvram-02",
+        "duration": 149.30997157096863,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1
+            },
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 4,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 5,
+        "hostname": "nvram-02",
+        "duration": 207.85171175003052,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 5,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 6,
+        "hostname": "nvram-02",
+        "duration": 356.3612871170044,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1
+            },
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 6,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 7,
+        "hostname": "nvram-02",
+        "duration": 160.20060968399048,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1
+            },
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 7,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 8,
+        "hostname": "nvram-02",
+        "duration": 196.75302720069885,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 8,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 9,
+        "hostname": "nvram-02",
+        "duration": 189.0014283657074,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1
+            },
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 9,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 10,
+        "hostname": "nvram-02",
+        "duration": 120.42543649673462,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1
+            },
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 10,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 11,
+        "hostname": "nvram-02",
+        "duration": 145.37682509422302,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 11,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 12,
+        "hostname": "nvram-02",
+        "duration": 188.74653220176697,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1
+            },
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 12,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 13,
+        "hostname": "nvram-02",
+        "duration": 115.05774283409119,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1
+            },
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 13,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 14,
+        "hostname": "nvram-02",
+        "duration": 149.83530974388123,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 14,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 15,
+        "hostname": "nvram-02",
+        "duration": 158.4542577266693,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1,
+                "PHASE_EXCLUDE_THIRD_PASS_SEEDING": 1
+            },
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 15,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 16,
+        "hostname": "nvram-02",
+        "duration": 105.70626735687256,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1,
+                "PHASE_EXCLUDE_THIRD_PASS_SEEDING": 1
+            },
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 16,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 17,
+        "hostname": "nvram-02",
+        "duration": 139.03505301475525,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1,
+                "PHASE_EXCLUDE_THIRD_PASS_SEEDING": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 17,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 18,
+        "hostname": "nvram-02",
+        "duration": 44.09536337852478,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1,
+                "PHASE_EXCLUDE_THIRD_PASS_SEEDING": 1,
+                "PHASE_EXCLUDE_ALIGNMENT": 1
+            },
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 18,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 19,
+        "hostname": "nvram-02",
+        "duration": 43.022146701812744,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1,
+                "PHASE_EXCLUDE_THIRD_PASS_SEEDING": 1,
+                "PHASE_EXCLUDE_ALIGNMENT": 1
+            },
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 19,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 20,
+        "hostname": "nvram-02",
+        "duration": 43.80447554588318,
+        "configuration": {
+            "run_options": "-t 72",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1,
+                "PHASE_EXCLUDE_THIRD_PASS_SEEDING": 1,
+                "PHASE_EXCLUDE_ALIGNMENT": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 20,
+            "capture_fds": []
+        }
+    }
+]

@@ -1,0 +1,8 @@
+[submodule "ocse"]
+	path = ocse
+	url = https://github.com/OpenCAPI/ocse.git
+	branch = master
+	update = merge
+[submodule "seqan"]
+	path = seqan
+	url = https://github.com/seqan/seqan.git

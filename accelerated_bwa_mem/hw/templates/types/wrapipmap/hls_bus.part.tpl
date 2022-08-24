@@ -1,0 +1,9 @@
+{{.x_wrapname}}_address     => {{.x_wrapname}}_address,
+{{.x_wrapname}}_req_din     => {{.x_wrapname}}_req_din,
+{{.x_wrapname}}_size        => {{.x_wrapname}}_size,
+{{.x_wrapname}}_dataout     => {{.x_wrapname}}_dataout,
+{{.x_wrapname}}_req_full_n  => {{.x_wrapname}}_req_full_n,
+{{.x_wrapname}}_req_write   => {{.x_wrapname}}_req_write,
+{{.x_wrapname}}_datain      => {{.x_wrapname}}_datain,
+{{.x_wrapname}}_rsp_empty_n => {{.x_wrapname}}_rsp_empty_n,
+{{.x_wrapname}}_rsp_read    => {{.x_wrapname}}_rsp_read

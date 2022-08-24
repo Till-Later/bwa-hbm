@@ -1,0 +1,3 @@
+export TIMING_LABLIMIT="-200"
+export ACTION_ROOT=/home/till/Till/mt-fpga-alignment/accelerated_bwa_mem
+export OCSE_ROOT=/home/till/Till/mt-fpga-alignment/ocse

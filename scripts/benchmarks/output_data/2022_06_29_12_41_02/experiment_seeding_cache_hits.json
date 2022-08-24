@@ -1,0 +1,3876 @@
+[
+    {
+        "global_run_id": 7,
+        "hostname": "ic922-04",
+        "duration": 528.8037598133087,
+        "configuration": {
+            "executable": "bwa",
+            "run_options": "-t 1",
+            "capture_fds": [
+                "performance_counters"
+            ],
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PERFORMANCE_COUNTERS_PERF": 1
+            },
+            "fastq_file": "hg38/queries/sample_1000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 7
+        },
+        "performance_counters": {
+            "first_second_pass_l1d_cache_misses": 3855862979,
+            "first_second_pass_l1d_cache_accesses": 74108303403,
+            "third_pass_l1d_cache_misses": 1252797413,
+            "third_pass_l1d_cache_accesses": 14537501923,
+            "program_start_time": 1656510197746,
+            "program_done_time": 1656510726544,
+            "process_iteration_events": [
+                {
+                    "is_start_event": 1,
+                    "time": 1656510198540,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510198584,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510198584,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510198584,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510198629,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510198629,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510198675,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510224816,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510224816,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510224817,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510224835,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510224835,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510224881,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510250859,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510250859,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510250860,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510250879,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510250879,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510250924,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510277865,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510277865,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510277866,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510277892,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510277892,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510277937,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510304792,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510304792,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510304793,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510304810,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510304810,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510304854,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510331175,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510331175,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510331175,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510331193,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510331193,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510331237,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510357999,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510357999,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510358000,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510358017,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510358017,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510358061,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510383800,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510383800,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510383801,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510383831,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510383831,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510383874,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510409395,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510409395,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510409396,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510409433,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510409433,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510409476,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510435914,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510435914,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510435915,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510435932,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510435932,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510435975,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510462553,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510462553,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510462553,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510462575,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510462575,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510462619,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510488955,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510488955,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510488956,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510488974,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510488974,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510489018,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510514592,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510514592,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510514592,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510514611,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510514611,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510514655,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510540715,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510540715,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510540716,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510540737,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510540737,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510540780,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510566709,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510566709,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510566710,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510566734,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510566734,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510566778,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510593362,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510593362,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510593363,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510593379,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510593379,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510593423,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510619657,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510619657,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510619658,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510619676,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510619676,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510619719,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510647164,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510647164,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510647165,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510647184,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510647184,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510647228,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510673583,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510673583,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510673583,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510673601,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510673601,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510699771,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510699771,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510699771,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510699803,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510699803,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510726521,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510726521,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510726539,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510726539,
+                    "step": 0
+                }
+            ]
+        }
+    },
+    {
+        "global_run_id": 8,
+        "hostname": "ic922-04",
+        "duration": 194.68167996406555,
+        "configuration": {
+            "executable": "bwa",
+            "run_options": "-t 1",
+            "capture_fds": [
+                "performance_counters"
+            ],
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PERFORMANCE_COUNTERS_PERF": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_1000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 8
+        },
+        "performance_counters": {
+            "first_second_pass_l1d_cache_misses": 3227113868,
+            "first_second_pass_l1d_cache_accesses": 43745539507,
+            "third_pass_l1d_cache_misses": 1172425423,
+            "third_pass_l1d_cache_accesses": 13772956670,
+            "program_start_time": 1656510730853,
+            "program_done_time": 1656510925529,
+            "process_iteration_events": [
+                {
+                    "is_start_event": 1,
+                    "time": 1656510731876,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510731920,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510731920,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510731920,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510731965,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510731965,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510732010,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510741566,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510741566,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510741567,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510741584,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510741584,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510741629,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510751230,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510751230,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510751231,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510751249,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510751249,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510751294,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510760893,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510760893,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510760893,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510760910,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510760910,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510760955,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510770633,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510770633,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510770634,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510770652,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510770652,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510770695,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510780317,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510780317,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510780318,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510780339,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510780339,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510780383,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510789872,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510789872,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510789873,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510789892,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510789892,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510789936,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510799614,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510799614,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510799615,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510799633,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510799633,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510799677,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510809285,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510809285,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510809286,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510809303,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510809303,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510809347,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510818943,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510818943,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510818943,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510818960,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510818960,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510819003,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510828540,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510828540,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510828540,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510828557,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510828557,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510828601,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510838137,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510838137,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510838137,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510838155,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510838155,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510838199,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510847847,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510847847,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510847847,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510847882,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510847882,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510847926,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510857566,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510857566,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510857567,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510857586,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510857586,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510857630,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510867318,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510867318,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510867319,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510867335,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510867336,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510867379,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510877014,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510877014,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510877015,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510877032,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510877032,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510877077,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510886768,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510886768,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510886768,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510886785,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510886785,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510886829,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510896463,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510896463,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510896464,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510896481,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510896481,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510896525,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510906104,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510906104,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510906104,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510906121,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510906121,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510915763,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510915763,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510915764,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510915780,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510915780,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510925506,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510925506,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510925523,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510925523,
+                    "step": 0
+                }
+            ]
+        }
+    },
+    {
+        "global_run_id": 9,
+        "hostname": "ic922-04",
+        "duration": 421.1888659000397,
+        "configuration": {
+            "executable": "bwa",
+            "run_options": "-t 1",
+            "capture_fds": [
+                "performance_counters"
+            ],
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PERFORMANCE_COUNTERS_PERF": 1,
+                "PHASE_EXCLUDE_THIRD_PASS_SEEDING": 1
+            },
+            "fastq_file": "hg38/queries/sample_1000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 9
+        },
+        "performance_counters": {
+            "first_second_pass_l1d_cache_misses": 3839789311,
+            "first_second_pass_l1d_cache_accesses": 74172982065,
+            "third_pass_l1d_cache_misses": 0,
+            "third_pass_l1d_cache_accesses": 0,
+            "program_start_time": 1656510929855,
+            "program_done_time": 1656511351039,
+            "process_iteration_events": [
+                {
+                    "is_start_event": 1,
+                    "time": 1656510930636,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510930680,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510930680,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510930681,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510930725,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510930726,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510930771,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510951488,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510951488,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510951489,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510951515,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510951515,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510951560,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510972378,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510972378,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510972379,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510972413,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510972413,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510972458,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510994196,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510994196,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510994197,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510994222,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656510994222,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656510994268,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511015725,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511015725,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511015726,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511015745,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511015745,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511015789,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511036793,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511036793,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511036794,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511036816,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511036816,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511036859,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511058176,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511058176,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511058176,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511058198,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511058198,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511058242,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511078348,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511078348,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511078348,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511078368,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511078368,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511078412,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511098517,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511098517,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511098518,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511098536,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511098536,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511098579,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511119541,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511119541,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511119541,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511119562,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511119562,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511119606,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511140526,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511140526,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511140527,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511140544,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511140544,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511140588,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511161650,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511161650,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511161651,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511161668,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511161668,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511161712,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511181935,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511181935,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511181936,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511181952,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511181952,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511181996,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511202591,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511202591,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511202591,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511202629,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511202629,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511202673,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511223286,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511223286,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511223286,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511223314,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511223314,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511223357,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511244909,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511244909,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511244910,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511244942,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511244942,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511244986,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511265903,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511265903,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511265903,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511265938,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511265938,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511265981,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511287921,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511287921,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511287921,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511287957,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511287957,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511288000,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511309128,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511309128,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511309129,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511309171,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511309171,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511329713,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511329713,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511329713,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511329742,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511329742,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511351016,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511351016,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511351033,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511351033,
+                    "step": 0
+                }
+            ]
+        }
+    },
+    {
+        "global_run_id": 10,
+        "hostname": "ic922-04",
+        "duration": 135.07496762275696,
+        "configuration": {
+            "executable": "bwa",
+            "run_options": "-t 1",
+            "capture_fds": [
+                "performance_counters"
+            ],
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PERFORMANCE_COUNTERS_PERF": 1,
+                "PHASE_EXCLUDE_THIRD_PASS_SEEDING": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_1000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 10
+        },
+        "performance_counters": {
+            "first_second_pass_l1d_cache_misses": 3220818208,
+            "first_second_pass_l1d_cache_accesses": 43685245248,
+            "third_pass_l1d_cache_misses": 0,
+            "third_pass_l1d_cache_accesses": 0,
+            "program_start_time": 1656511355361,
+            "program_done_time": 1656511490430,
+            "process_iteration_events": [
+                {
+                    "is_start_event": 1,
+                    "time": 1656511356371,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511356416,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511356416,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511356416,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511356461,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511356461,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511356506,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511363043,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511363043,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511363044,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511363063,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511363063,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511363109,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511369668,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511369668,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511369668,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511369687,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511369687,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511369732,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511376342,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511376342,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511376343,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511376366,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511376366,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511376411,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511382986,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511382986,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511382987,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511383009,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511383009,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511383052,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511389659,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511389659,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511389660,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511389676,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511389676,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511389720,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511396394,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511396394,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511396394,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511396413,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511396413,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511396457,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511403104,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511403104,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511403104,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511403125,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511403125,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511403169,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511409783,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511409783,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511409783,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511409808,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511409808,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511409851,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511416513,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511416513,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511416513,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511416536,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511416536,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511416580,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511423209,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511423209,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511423210,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511423227,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511423227,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511423271,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511429949,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511429949,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511429950,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511429969,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511429969,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511430012,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511436740,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511436740,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511436741,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511436758,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511436758,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511436802,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511443495,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511443495,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511443496,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511443518,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511443518,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511443561,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511450092,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511450092,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511450092,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511450115,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511450115,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511450159,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511456853,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511456853,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511456854,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511456880,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511456880,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511456923,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511463531,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511463531,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511463531,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511463555,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511463555,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511463599,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511470062,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511470062,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511470063,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511470080,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511470080,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511470124,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511476861,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511476861,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511476861,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511476881,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511476881,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511483618,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511483618,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511483618,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511483635,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511483635,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511490407,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511490407,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511490424,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511490424,
+                    "step": 0
+                }
+            ]
+        }
+    },
+    {
+        "global_run_id": 11,
+        "hostname": "ic922-04",
+        "duration": 344.5491282939911,
+        "configuration": {
+            "executable": "bwa",
+            "run_options": "-t 1",
+            "capture_fds": [
+                "performance_counters"
+            ],
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PERFORMANCE_COUNTERS_PERF": 1,
+                "PHASE_EXCLUDE_FIRST_SECOND_PASS_SEEDING": 1
+            },
+            "fastq_file": "hg38/queries/sample_1000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 11
+        },
+        "performance_counters": {
+            "first_second_pass_l1d_cache_misses": 0,
+            "first_second_pass_l1d_cache_accesses": 0,
+            "third_pass_l1d_cache_misses": 1558741037,
+            "third_pass_l1d_cache_accesses": 14382522216,
+            "program_start_time": 1656511494760,
+            "program_done_time": 1656511839304,
+            "process_iteration_events": [
+                {
+                    "is_start_event": 1,
+                    "time": 1656511495552,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511495596,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511495596,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511495597,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511495641,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511495642,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511495686,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511512884,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511512884,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511512885,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511512903,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511512903,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511512947,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511529934,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511529934,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511529934,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511529951,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511529951,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511529995,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511546946,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511546946,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511546947,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511546964,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511546964,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511547009,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511564127,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511564127,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511564128,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511564145,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511564145,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511564189,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511581285,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511581285,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511581286,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511581305,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511581305,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511581349,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511598469,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511598469,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511598470,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511598489,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511598489,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511598533,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511615660,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511615660,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511615661,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511615679,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511615679,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511615723,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511632731,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511632731,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511632732,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511632750,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511632750,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511632793,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511649994,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511649994,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511649994,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511650015,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511650015,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511650059,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511667032,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511667032,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511667032,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511667050,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511667050,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511667094,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511684219,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511684219,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511684220,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511684237,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511684237,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511684281,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511701622,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511701622,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511701624,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511701647,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511701647,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511701691,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511718703,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511718703,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511718703,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511718735,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511718735,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511718779,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511736049,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511736049,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511736050,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511736068,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511736068,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511736111,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511753155,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511753155,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511753156,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511753173,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511753173,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511753217,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511770319,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511770319,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511770320,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511770337,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511770337,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511770380,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511787581,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511787581,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511787581,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511787599,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511787599,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511787643,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511804892,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511804892,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511804892,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511804910,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511804910,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511821915,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511821915,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511821916,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511821933,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511821933,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511839280,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511839280,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511839298,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511839298,
+                    "step": 0
+                }
+            ]
+        }
+    },
+    {
+        "global_run_id": 12,
+        "hostname": "ic922-04",
+        "duration": 223.1079797744751,
+        "configuration": {
+            "executable": "bwa",
+            "run_options": "-t 1",
+            "capture_fds": [
+                "performance_counters"
+            ],
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PERFORMANCE_COUNTERS_PERF": 1,
+                "PHASE_EXCLUDE_FIRST_SECOND_PASS_SEEDING": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_1000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 12
+        },
+        "performance_counters": {
+            "first_second_pass_l1d_cache_misses": 0,
+            "first_second_pass_l1d_cache_accesses": 0,
+            "third_pass_l1d_cache_misses": 1469417842,
+            "third_pass_l1d_cache_accesses": 13635592600,
+            "program_start_time": 1656511843613,
+            "program_done_time": 1656512066714,
+            "process_iteration_events": [
+                {
+                    "is_start_event": 1,
+                    "time": 1656511844621,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511844665,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511844665,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511844666,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511844710,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511844711,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511844756,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511855732,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511855732,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511855732,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511855750,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511855750,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511855795,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511866748,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511866748,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511866748,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511866764,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511866764,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511866809,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511877884,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511877884,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511877885,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511877902,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511877902,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511877947,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511888934,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511888934,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511888935,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511888951,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511888951,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511888995,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511900064,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511900064,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511900064,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511900083,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511900083,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511900126,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511911179,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511911179,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511911180,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511911196,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511911196,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511911240,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511922273,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511922273,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511922273,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511922291,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511922291,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511922335,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511933409,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511933409,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511933409,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511933426,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511933426,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511933470,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511944426,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511944426,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511944427,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511944444,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511944444,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511944488,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511955453,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511955454,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511955454,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511955472,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511955472,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511955516,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511966591,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511966591,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511966592,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511966610,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511966610,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511966654,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511977698,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511977698,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511977699,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511977716,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511977716,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511977759,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511988794,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511988794,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511988795,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511988815,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511988815,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511988858,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511999921,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511999921,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511999922,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511999939,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656511999939,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656511999983,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656512011073,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512011073,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512011074,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656512011092,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512011092,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656512011136,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656512022128,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512022128,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512022129,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656512022146,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512022146,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656512022190,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656512033275,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512033275,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512033276,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656512033294,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512033294,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656512033337,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656512044483,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512044483,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512044483,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656512044500,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512044500,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656512055607,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512055607,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512055608,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656512055625,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512055625,
+                    "step": 0
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656512066691,
+                    "step": 1
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512066691,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 0,
+                    "time": 1656512066708,
+                    "step": 2
+                },
+                {
+                    "is_start_event": 1,
+                    "time": 1656512066708,
+                    "step": 0
+                }
+            ]
+        }
+    }
+]

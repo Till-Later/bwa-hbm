@@ -1,0 +1,422 @@
+[
+    {
+        "global_run_id": 0,
+        "hostname": "node-19",
+        "duration": 449.5576457977295,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1
+            },
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 0,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 1,
+        "hostname": "node-19",
+        "duration": 229.69713830947876,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1
+            },
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 1,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 2,
+        "hostname": "node-19",
+        "duration": 290.42826080322266,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 2,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 3,
+        "hostname": "node-19",
+        "duration": 273.29790592193604,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1
+            },
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 3,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 4,
+        "hostname": "node-19",
+        "duration": 159.63350892066956,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1
+            },
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 4,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 5,
+        "hostname": "node-19",
+        "duration": 186.33925890922546,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 5,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 6,
+        "hostname": "node-19",
+        "duration": 257.02235674858093,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1
+            },
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 6,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 7,
+        "hostname": "node-19",
+        "duration": 131.31987380981445,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1
+            },
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 7,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 8,
+        "hostname": "node-19",
+        "duration": 156.16272640228271,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 8,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 9,
+        "hostname": "node-19",
+        "duration": 144.97872161865234,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1
+            },
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 9,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 10,
+        "hostname": "node-19",
+        "duration": 120.29159593582153,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1
+            },
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 10,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 11,
+        "hostname": "node-19",
+        "duration": 121.39731001853943,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 11,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 12,
+        "hostname": "node-19",
+        "duration": 172.0867669582367,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1
+            },
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 12,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 13,
+        "hostname": "node-19",
+        "duration": 128.11265540122986,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1
+            },
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 13,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 14,
+        "hostname": "node-19",
+        "duration": 134.4248194694519,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 14,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 15,
+        "hostname": "node-19",
+        "duration": 132.47456216812134,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1,
+                "PHASE_EXCLUDE_THIRD_PASS_SEEDING": 1
+            },
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 15,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 16,
+        "hostname": "node-19",
+        "duration": 110.28049492835999,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1,
+                "PHASE_EXCLUDE_THIRD_PASS_SEEDING": 1
+            },
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 16,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 17,
+        "hostname": "node-19",
+        "duration": 112.90619277954102,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1,
+                "PHASE_EXCLUDE_THIRD_PASS_SEEDING": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 17,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 18,
+        "hostname": "node-19",
+        "duration": 46.973174810409546,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1,
+                "PHASE_EXCLUDE_THIRD_PASS_SEEDING": 1,
+                "PHASE_EXCLUDE_ALIGNMENT": 1
+            },
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 18,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 19,
+        "hostname": "node-19",
+        "duration": 51.789711236953735,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1,
+                "PHASE_EXCLUDE_THIRD_PASS_SEEDING": 1,
+                "PHASE_EXCLUDE_ALIGNMENT": 1
+            },
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 19,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 20,
+        "hostname": "node-19",
+        "duration": 45.24209666252136,
+        "configuration": {
+            "run_options": "-t 256",
+            "executable": "bwa",
+            "cflags": {
+                "PERFORMANCE_COUNTERS": 1,
+                "PERFORMANCE_COUNTERS_LOW_OVERHEAD": 1,
+                "PHASE_EXCLUDE_SEED_OUTPUT": 1,
+                "PHASE_EXCLUDE_SEED_EXTENSION": 1,
+                "PHASE_EXCLUDE_SEED_CHAINING": 1,
+                "PHASE_EXCLUDE_SEED_SORTING": 1,
+                "PHASE_EXCLUDE_THIRD_PASS_SEEDING": 1,
+                "PHASE_EXCLUDE_ALIGNMENT": 1
+            },
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 20,
+            "capture_fds": []
+        }
+    }
+]

@@ -1,0 +1,1262 @@
+[
+    {
+        "global_run_id": 0,
+        "hostname": "ic922-04",
+        "duration": 3.147507905960083,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "hg38/queries/sample_100000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 0,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 1,
+        "hostname": "ic922-04",
+        "duration": 9.608731269836426,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "hg38/queries/sample_500000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 1,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 2,
+        "hostname": "ic922-04",
+        "duration": 17.562066555023193,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "hg38/queries/sample_1000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 2,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 3,
+        "hostname": "ic922-04",
+        "duration": 82.15063858032227,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "hg38/queries/sample_5000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 3,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 4,
+        "hostname": "ic922-04",
+        "duration": 155.52066588401794,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "hg38/queries/sample_10000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 4,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 5,
+        "hostname": "ic922-04",
+        "duration": 302.4616620540619,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "hg38/queries/sample_20000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 5,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 6,
+        "hostname": "ic922-04",
+        "duration": 746.4893498420715,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 6,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 7,
+        "hostname": "ic922-04",
+        "duration": 0.742063045501709,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "reference_256000000/queries/sample_100000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 7,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 8,
+        "hostname": "ic922-04",
+        "duration": 2.8498358726501465,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "reference_256000000/queries/sample_500000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 8,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 9,
+        "hostname": "ic922-04",
+        "duration": 5.73802375793457,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "reference_256000000/queries/sample_1000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 9,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 10,
+        "hostname": "ic922-04",
+        "duration": 27.953937530517578,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "reference_256000000/queries/sample_5000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 10,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 11,
+        "hostname": "ic922-04",
+        "duration": 49.263978719711304,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "reference_256000000/queries/sample_10000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 11,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 12,
+        "hostname": "ic922-04",
+        "duration": 88.95107436180115,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "reference_256000000/queries/sample_20000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 12,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 13,
+        "hostname": "ic922-04",
+        "duration": 210.44674682617188,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 13,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 14,
+        "hostname": "ic922-04",
+        "duration": 1.767270565032959,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "reference_4000000000/queries/sample_100000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 14,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 15,
+        "hostname": "ic922-04",
+        "duration": 4.3226706981658936,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "reference_4000000000/queries/sample_500000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 15,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 16,
+        "hostname": "ic922-04",
+        "duration": 7.6443562507629395,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "reference_4000000000/queries/sample_1000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 16,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 17,
+        "hostname": "ic922-04",
+        "duration": 34.42094802856445,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "reference_4000000000/queries/sample_5000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 17,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 18,
+        "hostname": "ic922-04",
+        "duration": 60.511316537857056,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "reference_4000000000/queries/sample_10000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 18,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 19,
+        "hostname": "ic922-04",
+        "duration": 112.06245064735413,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "reference_4000000000/queries/sample_20000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 19,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 20,
+        "hostname": "ic922-04",
+        "duration": 265.4324080944061,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "",
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 20,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 21,
+        "hostname": "ic922-04",
+        "duration": 4.1222922801971436,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "hg38/queries/sample_100000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 21,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 22,
+        "hostname": "ic922-04",
+        "duration": 14.751407623291016,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "hg38/queries/sample_500000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 22,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 23,
+        "hostname": "ic922-04",
+        "duration": 27.711512327194214,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "hg38/queries/sample_1000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 23,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 24,
+        "hostname": "ic922-04",
+        "duration": 133.710524559021,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "hg38/queries/sample_5000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 24,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 25,
+        "hostname": "ic922-04",
+        "duration": 261.17128467559814,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "hg38/queries/sample_10000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 25,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 26,
+        "hostname": "ic922-04",
+        "duration": 514.5394587516785,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "hg38/queries/sample_20000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 26,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 27,
+        "hostname": "ic922-04",
+        "duration": 1278.5772325992584,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 27,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 28,
+        "hostname": "ic922-04",
+        "duration": 0.8355581760406494,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_256000000/queries/sample_100000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 28,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 29,
+        "hostname": "ic922-04",
+        "duration": 3.8509271144866943,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_256000000/queries/sample_500000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 29,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 30,
+        "hostname": "ic922-04",
+        "duration": 7.673328399658203,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_256000000/queries/sample_1000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 30,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 31,
+        "hostname": "ic922-04",
+        "duration": 37.922534465789795,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_256000000/queries/sample_5000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 31,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 32,
+        "hostname": "ic922-04",
+        "duration": 69.87050986289978,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_256000000/queries/sample_10000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 32,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 33,
+        "hostname": "ic922-04",
+        "duration": 133.39528369903564,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_256000000/queries/sample_20000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 33,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 34,
+        "hostname": "ic922-04",
+        "duration": 324.58874440193176,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 34,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 35,
+        "hostname": "ic922-04",
+        "duration": 1.9479939937591553,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_4000000000/queries/sample_100000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 35,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 36,
+        "hostname": "ic922-04",
+        "duration": 5.477709531784058,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_4000000000/queries/sample_500000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 36,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 37,
+        "hostname": "ic922-04",
+        "duration": 9.953546285629272,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_4000000000/queries/sample_1000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 37,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 38,
+        "hostname": "ic922-04",
+        "duration": 45.31758785247803,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_4000000000/queries/sample_5000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 38,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 39,
+        "hostname": "ic922-04",
+        "duration": 84.22712850570679,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_4000000000/queries/sample_10000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 39,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 40,
+        "hostname": "ic922-04",
+        "duration": 161.31940340995789,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_4000000000/queries/sample_20000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 40,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 41,
+        "hostname": "ic922-04",
+        "duration": 392.68435430526733,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "bwa",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 41,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 42,
+        "hostname": "ic922-04",
+        "duration": 5.529908180236816,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "hg38/queries/sample_100000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 42,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 43,
+        "hostname": "ic922-04",
+        "duration": 11.151583194732666,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "hg38/queries/sample_500000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 43,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 44,
+        "hostname": "ic922-04",
+        "duration": 19.09979009628296,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "hg38/queries/sample_1000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 44,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 45,
+        "hostname": "ic922-04",
+        "duration": 78.67127227783203,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "hg38/queries/sample_5000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 45,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 46,
+        "hostname": "ic922-04",
+        "duration": 139.5447108745575,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "hg38/queries/sample_10000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 46,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 47,
+        "hostname": "ic922-04",
+        "duration": 259.1902325153351,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "hg38/queries/sample_20000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 47,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 48,
+        "hostname": "ic922-04",
+        "duration": 631.0921051502228,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 48,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 49,
+        "hostname": "ic922-04",
+        "duration": 0.8858025074005127,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "reference_256000000/queries/sample_100000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 49,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 50,
+        "hostname": "ic922-04",
+        "duration": 2.6677379608154297,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "reference_256000000/queries/sample_500000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 50,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 51,
+        "hostname": "ic922-04",
+        "duration": 5.074526786804199,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "reference_256000000/queries/sample_1000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 51,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 52,
+        "hostname": "ic922-04",
+        "duration": 23.79995846748352,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "reference_256000000/queries/sample_5000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 52,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 53,
+        "hostname": "ic922-04",
+        "duration": 37.68890309333801,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "reference_256000000/queries/sample_10000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 53,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 54,
+        "hostname": "ic922-04",
+        "duration": 65.30815720558167,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "reference_256000000/queries/sample_20000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 54,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 55,
+        "hostname": "ic922-04",
+        "duration": 148.12494039535522,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 55,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 56,
+        "hostname": "ic922-04",
+        "duration": 5.42126727104187,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "reference_4000000000/queries/sample_100000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 56,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 57,
+        "hostname": "ic922-04",
+        "duration": 7.137927770614624,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "reference_4000000000/queries/sample_500000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 57,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 58,
+        "hostname": "ic922-04",
+        "duration": 11.09424090385437,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "reference_4000000000/queries/sample_1000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 58,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 59,
+        "hostname": "ic922-04",
+        "duration": 27.196654319763184,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "reference_4000000000/queries/sample_5000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 59,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 60,
+        "hostname": "ic922-04",
+        "duration": 43.1336989402771,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "reference_4000000000/queries/sample_10000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 60,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 61,
+        "hostname": "ic922-04",
+        "duration": 75.12391376495361,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "reference_4000000000/queries/sample_20000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 61,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 62,
+        "hostname": "ic922-04",
+        "duration": 167.11419582366943,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "",
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 62,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 63,
+        "hostname": "ic922-04",
+        "duration": 5.9701988697052,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "hg38/queries/sample_100000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 63,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 64,
+        "hostname": "ic922-04",
+        "duration": 16.17823815345764,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "hg38/queries/sample_500000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 64,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 65,
+        "hostname": "ic922-04",
+        "duration": 27.147091150283813,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "hg38/queries/sample_1000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 65,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 66,
+        "hostname": "ic922-04",
+        "duration": 123.10075759887695,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "hg38/queries/sample_5000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 66,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 67,
+        "hostname": "ic922-04",
+        "duration": 234.3264331817627,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "hg38/queries/sample_10000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 67,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 68,
+        "hostname": "ic922-04",
+        "duration": 451.9120512008667,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "hg38/queries/sample_20000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 68,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 69,
+        "hostname": "ic922-04",
+        "duration": 1110.3717138767242,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "hg38/queries/sample_50000000.fastq",
+            "reference_file": "hg38/reference.fa",
+            "run_id": 69,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 70,
+        "hostname": "ic922-04",
+        "duration": 0.7372877597808838,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_256000000/queries/sample_100000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 70,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 71,
+        "hostname": "ic922-04",
+        "duration": 3.142876625061035,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_256000000/queries/sample_500000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 71,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 72,
+        "hostname": "ic922-04",
+        "duration": 6.018289089202881,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_256000000/queries/sample_1000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 72,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 73,
+        "hostname": "ic922-04",
+        "duration": 28.544915914535522,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_256000000/queries/sample_5000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 73,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 74,
+        "hostname": "ic922-04",
+        "duration": 47.47207283973694,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_256000000/queries/sample_10000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 74,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 75,
+        "hostname": "ic922-04",
+        "duration": 86.10258960723877,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_256000000/queries/sample_20000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 75,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 76,
+        "hostname": "ic922-04",
+        "duration": 200.79706859588623,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_256000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_256000000/reference.fa",
+            "run_id": 76,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 77,
+        "hostname": "ic922-04",
+        "duration": 4.908884525299072,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_4000000000/queries/sample_100000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 77,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 78,
+        "hostname": "ic922-04",
+        "duration": 7.134718894958496,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_4000000000/queries/sample_500000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 78,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 79,
+        "hostname": "ic922-04",
+        "duration": 11.116338729858398,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_4000000000/queries/sample_1000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 79,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 80,
+        "hostname": "ic922-04",
+        "duration": 35.1197464466095,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_4000000000/queries/sample_5000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 80,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 81,
+        "hostname": "ic922-04",
+        "duration": 55.20180892944336,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_4000000000/queries/sample_10000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 81,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 82,
+        "hostname": "ic922-04",
+        "duration": 99.12284541130066,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_4000000000/queries/sample_20000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 82,
+            "capture_fds": []
+        }
+    },
+    {
+        "global_run_id": 83,
+        "hostname": "ic922-04",
+        "duration": 231.13044452667236,
+        "configuration": {
+            "run_options": "-t 96",
+            "image_name": "second_layer_crossbar/cores_16/pipeline_id_width_7",
+            "executable": "accelerated_bwa_mem",
+            "numa_command": "numactl -m 0 -N 0",
+            "fastq_file": "reference_4000000000/queries/sample_50000000.fastq",
+            "reference_file": "reference_4000000000/reference.fa",
+            "run_id": 83,
+            "capture_fds": []
+        }
+    }
+]

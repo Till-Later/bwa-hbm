@@ -1,0 +1,2 @@
+# enroot start --root --rw --mount /hpi/fs00/home/till.lehmann/Till/enroot:/deploy --mount /mnt/nvme0:/mnt/nvme0 --mount /mnt/pmem1:/mnt/pmem1 xilinx-vivado bash
+enroot start --root --rw --mount /hpi/fs00/home/till.lehmann/Till/enroot:/deploy --mount /scratch:/scratch xilinx-vivado bash

@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  xilinx-vivado:
+    build:
+     context: ./
+     dockerfile: Dockerfile
+    volumes:
+     - $PWD/:/deploy
+    mac_address: a8:5e:45:60:42:ce
+    working_dir: /
